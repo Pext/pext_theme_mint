@@ -1,11 +1,11 @@
 {
-  "name": "mint",
+  "id": "pext.theme.mint",
+  "name": "Mint",
   "developer": "Emily Lau",
   "description": "A blue theme for Pext.",
   "homepage": "https://pext.hackerchick.me/",
   "license": "CC-BY-3.0",
   "git_urls": [
-    "https://github.com/Pext/pext_theme_mint",
-    "https://notabug.org/Pext/pext_theme_mint"
+    "https://github.com/Pext/pext_theme_mint"
   ]
 }
